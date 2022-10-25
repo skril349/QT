@@ -1,0 +1,23 @@
+# ninja log v5
+1	276	6884192380514684	helloWorld_autogen/timestamp	dee1d4cb70b77c54
+1	276	6884192380514684	helloWorld_autogen/mocs_compilation.cpp	dee1d4cb70b77c54
+1	276	6884192380514684	C:/qt/projects/QT/hello_world/build-helloWorld-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/helloWorld_autogen/timestamp	dee1d4cb70b77c54
+1	276	6884192380514684	C:/qt/projects/QT/hello_world/build-helloWorld-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/helloWorld_autogen/mocs_compilation.cpp	dee1d4cb70b77c54
+278	354	6884192382322965	CMakeFiles/helloWorld.dir/helloWorld_autogen/mocs_compilation.cpp.obj	5d6b6433f67b4dc3
+284	2513	6884192403883568	CMakeFiles/helloWorld.dir/main.cpp.obj	1f9ad65b3646c50d
+2518	2691	6884192405623522	helloWorld.exe	f82108ba48bff54b
+7	230	6884197232632768	helloWorld_autogen/timestamp	dee1d4cb70b77c54
+7	230	6884197232632768	helloWorld_autogen/mocs_compilation.cpp	dee1d4cb70b77c54
+7	230	6884197232632768	C:/qt/projects/QT/hello_world/build-helloWorld-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/helloWorld_autogen/timestamp	dee1d4cb70b77c54
+7	230	6884197232632768	C:/qt/projects/QT/hello_world/build-helloWorld-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/helloWorld_autogen/mocs_compilation.cpp	dee1d4cb70b77c54
+237	2436	6884197254703149	CMakeFiles/helloWorld.dir/main.cpp.obj	1f9ad65b3646c50d
+2437	2622	6884197256503126	helloWorld.exe	f82108ba48bff54b
+0	47	0	CMakeFiles/clean.additional	641a414171816626
+48	63	0	clean	75a223894de9803f
+8	287	6884197934619345	helloWorld_autogen/timestamp	dee1d4cb70b77c54
+8	287	6884197934619345	helloWorld_autogen/mocs_compilation.cpp	dee1d4cb70b77c54
+8	287	6884197934619345	C:/qt/projects/QT/hello_world/build-helloWorld-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/helloWorld_autogen/timestamp	dee1d4cb70b77c54
+8	287	6884197934619345	C:/qt/projects/QT/hello_world/build-helloWorld-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/helloWorld_autogen/mocs_compilation.cpp	dee1d4cb70b77c54
+288	359	6884197936339146	CMakeFiles/helloWorld.dir/helloWorld_autogen/mocs_compilation.cpp.obj	5d6b6433f67b4dc3
+293	2207	6884197954809129	CMakeFiles/helloWorld.dir/main.cpp.obj	1f9ad65b3646c50d
+2208	2386	6884197956539457	helloWorld.exe	f82108ba48bff54b
