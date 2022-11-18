@@ -1,0 +1,9 @@
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/QtTestCmake.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/QtTestCmake_autogen_timestamp_deps.dir
+C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/QtTestCmake_autogen.dir

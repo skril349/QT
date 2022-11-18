@@ -1,0 +1,15 @@
+# ninja log v5
+2	1739	6904954426749607	QtTestCmake_autogen/timestamp	556d2c44fcbf8d6b
+2	1739	6904954426749607	QtTestCmake_autogen/mocs_compilation.cpp	556d2c44fcbf8d6b
+2	1739	6904954426749607	C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/QtTestCmake_autogen/timestamp	556d2c44fcbf8d6b
+2	1739	6904954426749607	C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/QtTestCmake_autogen/mocs_compilation.cpp	556d2c44fcbf8d6b
+1747	4813	6904954460879593	CMakeFiles/QtTestCmake.dir/QtTestCmake_autogen/mocs_compilation.cpp.obj	4a82733a39f6ca9f
+1750	4873	6904954461469594	CMakeFiles/QtTestCmake.dir/widget.cpp.obj	81cde720e03af41a
+1752	4876	6904954461469594	CMakeFiles/QtTestCmake.dir/main.cpp.obj	82e95055810c7db0
+4876	5196	6904954464636115	QtTestCmake.exe	5a8a0cf1dd421e92
+10	436	6904955234351363	QtTestCmake_autogen/timestamp	556d2c44fcbf8d6b
+10	436	6904955234351363	QtTestCmake_autogen/mocs_compilation.cpp	556d2c44fcbf8d6b
+10	436	6904955234351363	C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/QtTestCmake_autogen/timestamp	556d2c44fcbf8d6b
+10	436	6904955234351363	C:/qt/projects/QT/QtTestCmake/build-QtTestCmake-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/QtTestCmake_autogen/mocs_compilation.cpp	556d2c44fcbf8d6b
+456	3089	6904955260890116	CMakeFiles/QtTestCmake.dir/widget.cpp.obj	81cde720e03af41a
+3090	3374	6904955263650112	QtTestCmake.exe	5a8a0cf1dd421e92

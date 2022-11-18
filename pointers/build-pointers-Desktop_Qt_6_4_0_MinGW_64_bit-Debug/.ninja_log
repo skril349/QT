@@ -1,0 +1,16 @@
+# ninja log v5
+12	198	6893706788883158	pointers_autogen/timestamp	d4a965b39d171980
+12	198	6893706788883158	C:/qt/projects/QT/pointers/build-pointers-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/pointers_autogen/mocs_compilation.cpp	d4a965b39d171980
+12	198	6893706788883158	pointers_autogen/mocs_compilation.cpp	d4a965b39d171980
+204	2569	6893706812625000	CMakeFiles/pointers.dir/main.cpp.obj	baa0ef42dc9e19ba
+12	198	6893706788883158	C:/qt/projects/QT/pointers/build-pointers-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/pointers_autogen/timestamp	d4a965b39d171980
+321	394	6893695591256659	CMakeFiles/pointers.dir/pointers_autogen/mocs_compilation.cpp.obj	3bbbf0167ad55956
+2570	2738	6893706814265528	pointers.exe	34ef651aae18542
+21	1347	6893713738211914	pointers_autogen/timestamp	d4a965b39d171980
+21	1347	6893713738211914	pointers_autogen/mocs_compilation.cpp	d4a965b39d171980
+21	1347	6893713738211914	C:/qt/projects/QT/pointers/build-pointers-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/pointers_autogen/timestamp	d4a965b39d171980
+21	1347	6893713738211914	C:/qt/projects/QT/pointers/build-pointers-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/pointers_autogen/mocs_compilation.cpp	d4a965b39d171980
+1355	3718	6893713764076621	CMakeFiles/pointers.dir/test.cpp.obj	910db1c9e5666c58
+1349	3748	6893713764396564	CMakeFiles/pointers.dir/pointers_autogen/mocs_compilation.cpp.obj	3bbbf0167ad55956
+1353	3851	6893713765428774	CMakeFiles/pointers.dir/main.cpp.obj	baa0ef42dc9e19ba
+3852	4049	6893713767335837	pointers.exe	262a5426d100adc5
