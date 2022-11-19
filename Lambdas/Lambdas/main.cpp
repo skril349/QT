@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
         qDebug()<<"a + b = "<<c + b;
     }();
 
-    auto func = [c](){
+    auto func = [&c](){
         qDebug()<<"The value of c in lambda is "<<c<<"\n";
     };
 
