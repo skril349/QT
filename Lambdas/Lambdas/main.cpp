@@ -30,5 +30,15 @@ int main(int argc, char *argv[])
     [b,c](){
         qDebug()<<"a + b = "<<c + b;
     }();
+
+    auto func = [c](){
+        qDebug()<<"The value of c in lambda is "<<c<<"\n";
+    };
+
+    for(int i = 1;i<5;i++){
+        qDebug()<<"The value of c is "<<c<<"\n";
+        func();
+        c=c+1;
+    }
     return a.exec();
 }
