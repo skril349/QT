@@ -1,0 +1,9 @@
+# ninja log v5
+3	1522	6905814974037823	MemoryManagment_autogen/timestamp	ee1ff2c5db2ec8f0
+3	1522	6905814974037823	MemoryManagment_autogen/mocs_compilation.cpp	ee1ff2c5db2ec8f0
+3	1522	6905814974037823	C:/qt/projects/QT/memoryManagment/build-MemoryManagment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/MemoryManagment_autogen/timestamp	ee1ff2c5db2ec8f0
+3	1522	6905814974037823	C:/qt/projects/QT/memoryManagment/build-MemoryManagment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/MemoryManagment_autogen/mocs_compilation.cpp	ee1ff2c5db2ec8f0
+1526	3856	6905814999627796	CMakeFiles/MemoryManagment.dir/MemoryManagment_autogen/mocs_compilation.cpp.obj	2602a5db092bfe84
+1523	4011	6905815001207796	CMakeFiles/MemoryManagment.dir/main.cpp.obj	ec3fefe377783cc5
+1529	4025	6905815001337820	CMakeFiles/MemoryManagment.dir/house.cpp.obj	2dc62d7016568d67
+4026	4247	6905815003497974	MemoryManagment.exe	8d8a1f6cffa1d068

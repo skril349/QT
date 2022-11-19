@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e016347fd703d5b02ffe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MemoryManagment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MemoryManagment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemoryManagment-Debug-5205275fd43e6605ef28.json",
+					"name" : "MemoryManagment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MemoryManagment_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemoryManagment_autogen-Debug-9e163ea752038274efe0.json",
+					"name" : "MemoryManagment_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MemoryManagment_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemoryManagment_autogen_timestamp_deps-Debug-b185bb68f4a44cc3fdfc.json",
+					"name" : "MemoryManagment_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/qt/projects/QT/memoryManagment/build-MemoryManagment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/qt/projects/QT/memoryManagment/MemoryManagment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
