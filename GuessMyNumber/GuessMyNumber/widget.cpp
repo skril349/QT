@@ -31,7 +31,7 @@ void Widget::on_guessButton_clicked()
     guessNumber = ui->numberSpinBox->value();
     if(guessNumber == secretNumber){
         ui->startOverButton->setDisabled(false);
-        ui->messageLabel -> setText("Correct, the secret number is your value");
+        ui->messageLabel -> setText("Correct, the secret number is "+ QString::number(secretNumber));
     }
 
     if(guessNumber > secretNumber){
