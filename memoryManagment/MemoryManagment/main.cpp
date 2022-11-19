@@ -24,11 +24,16 @@ void do_stuff(){
 
     //we re going to create parent pointer and when this is going to be destroyed, it will destroy eery child pointer.
 
-    House* p_parent = new House(nullptr,"Parent");
-    House* phouse1 = new House(p_parent, "House1");
-    House* phouse2 = new House(phouse1, "House2");
+//    House* p_parent = new House(nullptr,"Parent");
+//    House* phouse1 = new House(p_parent, "House1");
+//    House* phouse2 = new House(phouse1, "House2");
 
-    delete p_parent;
+//    delete p_parent;
+
+    std::unique_ptr<House> p_parent {new House(nullptr,"First")};
+    House* phouse1 = new House(p_parent.get(), "House1");
+    House* phouse2 = new House(p_parent.get(), "House2");
+
 }
 
 int main(int argc, char *argv[])
