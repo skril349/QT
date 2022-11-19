@@ -5,12 +5,30 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    //Lambda functions
-    auto func = [](){
-        qDebug()<<"Hello World \n";
-    };
+    //---------Lambda functions
+//    auto func = [](){
+//        qDebug()<<"Hello World \n";
+//    };
 
-    func();
+//    func();
 
+    //-------------Lambda function that takes params
+//    [](int a, int b){
+//        qDebug()<<"a + b = "<<a+b;
+//    }(7,3);
+
+
+    //-------------Store the lambda variable
+//    auto func = [](int a, int b){
+//        qDebug()<<"a+b = "<<a+b;
+//    };
+//    func(7,3);
+
+    //---------------Capturing list Lambda
+    int b = 7;
+    int c = 33;
+    [b,c](){
+        qDebug()<<"a + b = "<<c + b;
+    }();
     return a.exec();
 }
