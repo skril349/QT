@@ -1,0 +1,14 @@
+# ninja log v5
+2	281	6905871500276810	Lambdas_autogen/timestamp	30ff9670a50d6c63
+2	281	6905871500276810	Lambdas_autogen/mocs_compilation.cpp	30ff9670a50d6c63
+2	281	6905871500276810	C:/qt/projects/QT/Lambdas/build-Lambdas-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Lambdas_autogen/timestamp	30ff9670a50d6c63
+2	281	6905871500276810	C:/qt/projects/QT/Lambdas/build-Lambdas-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Lambdas_autogen/mocs_compilation.cpp	30ff9670a50d6c63
+286	357	6905871502266760	CMakeFiles/Lambdas.dir/Lambdas_autogen/mocs_compilation.cpp.obj	26ff493eecde4fee
+283	2630	6905871524986748	CMakeFiles/Lambdas.dir/main.cpp.obj	18b9efcf06c3af86
+2636	2785	6905871526497048	Lambdas.exe	d7a85ca33f75ded7
+8	202	6905871738737775	Lambdas_autogen/timestamp	30ff9670a50d6c63
+8	202	6905871738737775	Lambdas_autogen/mocs_compilation.cpp	30ff9670a50d6c63
+8	202	6905871738737775	C:/qt/projects/QT/Lambdas/build-Lambdas-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Lambdas_autogen/timestamp	30ff9670a50d6c63
+8	202	6905871738737775	C:/qt/projects/QT/Lambdas/build-Lambdas-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Lambdas_autogen/mocs_compilation.cpp	30ff9670a50d6c63
+210	2381	6905871760511962	CMakeFiles/Lambdas.dir/main.cpp.obj	18b9efcf06c3af86
+2381	2558	6905871762223566	Lambdas.exe	d7a85ca33f75ded7
