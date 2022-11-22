@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c0815053a9b51246e34a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Signals_and_slots",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Signals_and_slots::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Signals_and_slots-Debug-01d49c560fab70a1c398.json",
+					"name" : "Signals_and_slots",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Signals_and_slots_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Signals_and_slots_autogen-Debug-816b0eb23ebbc1ea299f.json",
+					"name" : "Signals_and_slots_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/QT_6/projects/QT/Signals&Slots/Signals_and_slots"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

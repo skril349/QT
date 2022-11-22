@@ -1,0 +1,8 @@
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Signals_and_slots.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/QT_6/projects/QT/Signals&Slots/build-Signals_and_slots-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Signals_and_slots_autogen.dir

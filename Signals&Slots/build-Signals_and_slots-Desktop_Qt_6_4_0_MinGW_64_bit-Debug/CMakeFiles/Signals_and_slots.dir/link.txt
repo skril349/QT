@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Signals_and_slots.dir/objects.a
+C:\QT_6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\Signals_and_slots.dir/objects.a @CMakeFiles\Signals_and_slots.dir\objects1.rsp
+C:\QT_6\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\Signals_and_slots.dir/objects.a -Wl,--no-whole-archive -o Signals_and_slots.exe -Wl,--out-implib,libSignals_and_slots.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Signals_and_slots.dir\linklibs.rsp
