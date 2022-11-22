@@ -1012,10 +1012,17 @@ CMakeFiles/Signals_and_slots.dir/widget.cpp.obj: C:/QT_6/projects/QT/Signals&Slo
   C:/QT_6/6.4.0/mingw_64/include/QtCore/qiodevice.h \
   C:/QT_6/6.4.0/mingw_64/include/QtGui/qtextdocument.h \
   C:/QT_6/6.4.0/mingw_64/include/QtCore/qurl.h \
+  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QProgressBar \
+  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qprogressbar.h \
   C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QPushButton \
   C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qpushbutton.h \
   C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qabstractbutton.h \
-  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QWidget
+  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QSlider \
+  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qslider.h \
+  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qabstractslider.h \
+  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QWidget \
+  C:/QT_6/6.4.0/mingw_64/include/QtCore/QDebug \
+  C:/QT_6/6.4.0/mingw_64/include/QtCore/qdebug.h
 
 
 Signals_and_slots_autogen/mocs_compilation.cpp:
@@ -1077,6 +1084,8 @@ C:/QT_6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/num
 C:/QT_6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h:
 
 C:/QT_6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unique_ptr.h:
+
+C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QSlider:
 
 C:/QT_6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_pair.h:
 
@@ -1604,6 +1613,8 @@ C:/QT_6/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h:
 
 C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw_stdarg.h:
 
+C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qabstractslider.h:
+
 C:/QT_6/6.4.0/mingw_64/include/QtCore/qstringalgorithms.h:
 
 C:/QT_6/6.4.0/mingw_64/include/QtCore/qanystringview.h:
@@ -1611,6 +1622,8 @@ C:/QT_6/6.4.0/mingw_64/include/QtCore/qanystringview.h:
 C:/QT_6/6.4.0/mingw_64/include/QtCore/qutf8stringview.h:
 
 C:/QT_6/6.4.0/mingw_64/include/QtCore/qstringtokenizer.h:
+
+C:/QT_6/6.4.0/mingw_64/include/QtCore/QDebug:
 
 C:/QT_6/6.4.0/mingw_64/include/QtCore/qhashfunctions.h:
 
@@ -1718,4 +1731,10 @@ C:/QT_6/6.4.0/mingw_64/include/QtGui/qtextdocument.h:
 
 C:/QT_6/6.4.0/mingw_64/include/QtCore/qurl.h:
 
+C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QProgressBar:
+
+C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qprogressbar.h:
+
 C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QPushButton:
+
+C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qslider.h:

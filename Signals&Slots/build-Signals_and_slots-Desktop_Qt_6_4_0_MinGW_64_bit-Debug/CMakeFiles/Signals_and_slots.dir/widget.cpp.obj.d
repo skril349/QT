@@ -346,7 +346,14 @@ CMakeFiles/Signals_and_slots.dir/widget.cpp.obj: \
  C:/QT_6/6.4.0/mingw_64/include/QtCore/qiodevice.h \
  C:/QT_6/6.4.0/mingw_64/include/QtGui/qtextdocument.h \
  C:/QT_6/6.4.0/mingw_64/include/QtCore/qurl.h \
+ C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QProgressBar \
+ C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qprogressbar.h \
  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QPushButton \
  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qpushbutton.h \
  C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qabstractbutton.h \
- C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QWidget
+ C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QSlider \
+ C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qslider.h \
+ C:/QT_6/6.4.0/mingw_64/include/QtWidgets/qabstractslider.h \
+ C:/QT_6/6.4.0/mingw_64/include/QtWidgets/QWidget \
+ C:/QT_6/6.4.0/mingw_64/include/QtCore/QDebug \
+ C:/QT_6/6.4.0/mingw_64/include/QtCore/qdebug.h

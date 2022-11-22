@@ -17,7 +17,7 @@ public:
 
 private slots:
     void changeText();
-
+    void respond(int value);
     void on_button2_clicked();
 
 private:

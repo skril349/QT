@@ -12,7 +12,9 @@
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QLabel>
+#include <QtWidgets/QProgressBar>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSlider>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -23,6 +25,8 @@ public:
     QPushButton *myButton;
     QLabel *label;
     QPushButton *button2;
+    QSlider *horizontalSlider;
+    QProgressBar *progressBar;
 
     void setupUi(QWidget *Widget)
     {
@@ -31,13 +35,22 @@ public:
         Widget->resize(555, 321);
         myButton = new QPushButton(Widget);
         myButton->setObjectName("myButton");
-        myButton->setGeometry(QRect(170, 50, 80, 24));
+        myButton->setGeometry(QRect(20, 10, 80, 24));
         label = new QLabel(Widget);
         label->setObjectName("label");
-        label->setGeometry(QRect(80, 140, 311, 81));
+        label->setGeometry(QRect(30, 40, 311, 81));
         button2 = new QPushButton(Widget);
         button2->setObjectName("button2");
-        button2->setGeometry(QRect(320, 50, 80, 24));
+        button2->setGeometry(QRect(120, 10, 80, 24));
+        horizontalSlider = new QSlider(Widget);
+        horizontalSlider->setObjectName("horizontalSlider");
+        horizontalSlider->setGeometry(QRect(90, 190, 361, 20));
+        horizontalSlider->setMaximum(100);
+        horizontalSlider->setOrientation(Qt::Horizontal);
+        progressBar = new QProgressBar(Widget);
+        progressBar->setObjectName("progressBar");
+        progressBar->setGeometry(QRect(80, 240, 381, 23));
+        progressBar->setValue(0);
 
         retranslateUi(Widget);
 
