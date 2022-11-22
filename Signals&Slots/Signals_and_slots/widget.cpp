@@ -20,3 +20,9 @@ void Widget::changeText()
     ui->label->setText("Hello how are you");
 }
 
+
+void Widget::on_button2_clicked()
+{
+    ui->label->setText("pressed by function not signals and slots");
+}
+

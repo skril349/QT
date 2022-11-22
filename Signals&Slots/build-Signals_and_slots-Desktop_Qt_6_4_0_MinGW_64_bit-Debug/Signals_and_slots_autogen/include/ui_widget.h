@@ -22,6 +22,7 @@ class Ui_Widget
 public:
     QPushButton *myButton;
     QLabel *label;
+    QPushButton *button2;
 
     void setupUi(QWidget *Widget)
     {
@@ -34,6 +35,9 @@ public:
         label = new QLabel(Widget);
         label->setObjectName("label");
         label->setGeometry(QRect(80, 140, 311, 81));
+        button2 = new QPushButton(Widget);
+        button2->setObjectName("button2");
+        button2->setGeometry(QRect(320, 50, 80, 24));
 
         retranslateUi(Widget);
 
@@ -45,6 +49,7 @@ public:
         Widget->setWindowTitle(QCoreApplication::translate("Widget", "Widget", nullptr));
         myButton->setText(QCoreApplication::translate("Widget", "Click", nullptr));
         label->setText(QCoreApplication::translate("Widget", "GET OUT OF HERE", nullptr));
+        button2->setText(QCoreApplication::translate("Widget", "button2", nullptr));
     } // retranslateUi
 
 };

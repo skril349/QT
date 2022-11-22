@@ -18,6 +18,8 @@ public:
 private slots:
     void changeText();
 
+    void on_button2_clicked();
+
 private:
     Ui::Widget *ui;
 };
