@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a78f56a389bd5d4dab5e6bb26f106a27 CMakeFiles/CaloryCounter_autogen
