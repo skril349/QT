@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/QT_6/projects/QT/QLabel/build-QLabel-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/QLabel_autogen",
+	"CMAKE_BINARY_DIR" : "C:/QT_6/projects/QT/QLabel/build-QLabel-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/QT_6/projects/QT/QLabel/build-QLabel-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QT_6/projects/QT/QLabel/QLabel",
+	"CMAKE_SOURCE_DIR" : "C:/QT_6/projects/QT/QLabel/QLabel",
+	"INCLUDE_DIR" : "C:/QT_6/projects/QT/QLabel/build-QLabel-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/QLabel_autogen/include",
+	"INPUTS" : [ "C:/QT_6/projects/QT/QLabel/QLabel/images/minions.png" ],
+	"LOCK_FILE" : "C:/QT_6/projects/QT/QLabel/build-QLabel-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/QLabel_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "C:/QT_6/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/QT_6/projects/QT/QLabel/build-QLabel-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/QLabel_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/QT_6/projects/QT/QLabel/QLabel/resource.qrc",
+	"VERBOSITY" : 0
+}
