@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-23ef1de61fc8878d05d3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CheckBox_RadioButton",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CheckBox_RadioButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CheckBox_RadioButton-Debug-2b3d2d0787cb0c26487e.json",
+					"name" : "CheckBox_RadioButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CheckBox_RadioButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CheckBox_RadioButton_autogen-Debug-45c13c061b087fede633.json",
+					"name" : "CheckBox_RadioButton_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QT_6/projects/QT/CheckBox&RadioButton/build-CheckBox_RadioButton-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/QT_6/projects/QT/CheckBox&RadioButton/CheckBox_RadioButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
