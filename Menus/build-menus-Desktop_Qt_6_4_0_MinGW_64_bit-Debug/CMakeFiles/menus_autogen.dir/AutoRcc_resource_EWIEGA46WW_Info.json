@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/QT_6/projects/QT/Menus/build-menus-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/menus_autogen",
+	"CMAKE_BINARY_DIR" : "C:/QT_6/projects/QT/Menus/build-menus-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/QT_6/projects/QT/Menus/build-menus-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QT_6/projects/QT/Menus/menus",
+	"CMAKE_SOURCE_DIR" : "C:/QT_6/projects/QT/Menus/menus",
+	"INCLUDE_DIR" : "C:/QT_6/projects/QT/Menus/build-menus-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/menus_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/QT_6/projects/QT/Menus/menus/images/redo.jpg",
+		"C:/QT_6/projects/QT/Menus/menus/images/quit.png",
+		"C:/QT_6/projects/QT/Menus/menus/images/undo.png",
+		"C:/QT_6/projects/QT/Menus/menus/images/paste.png",
+		"C:/QT_6/projects/QT/Menus/menus/images/scisors.png"
+	],
+	"LOCK_FILE" : "C:/QT_6/projects/QT/Menus/build-menus-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/menus_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "C:/QT_6/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/QT_6/projects/QT/Menus/build-menus-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/menus_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/QT_6/projects/QT/Menus/menus/resource.qrc",
+	"VERBOSITY" : 0
+}
