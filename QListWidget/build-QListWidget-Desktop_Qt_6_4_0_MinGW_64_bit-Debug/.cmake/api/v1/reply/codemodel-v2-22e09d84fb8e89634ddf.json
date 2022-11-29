@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-90c0c105e1e020c60ae1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QListWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QListWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QListWidget-Debug-41f7e67254675c5eb46f.json",
+					"name" : "QListWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QListWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QListWidget_autogen-Debug-2d29e459015518dbf9a5.json",
+					"name" : "QListWidget_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QT_6/projects/QT/QListWidget/build-QListWidget-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/QT_6/projects/QT/QListWidget/QListWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

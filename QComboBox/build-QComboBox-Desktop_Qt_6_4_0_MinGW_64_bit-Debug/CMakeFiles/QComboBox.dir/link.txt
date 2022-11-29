@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QComboBox.dir/objects.a
+C:\QT_6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\QComboBox.dir/objects.a @CMakeFiles\QComboBox.dir\objects1.rsp
+C:\QT_6\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\QComboBox.dir/objects.a -Wl,--no-whole-archive -o QComboBox.exe -Wl,--out-implib,libQComboBox.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QComboBox.dir\linklibs.rsp
