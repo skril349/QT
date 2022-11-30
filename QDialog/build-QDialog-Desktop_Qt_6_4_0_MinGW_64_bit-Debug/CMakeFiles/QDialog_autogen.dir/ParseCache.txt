@@ -332,6 +332,7 @@ C:/QT_6/projects/QT/QDialog/QDialog/infodialog.h
  mdp:C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
+C:/QT_6/projects/QT/QDialog/QDialog/main.cpp
 C:/QT_6/projects/QT/QDialog/QDialog/widget.h
  mmc:Q_OBJECT
  mdp:C:/QT_6/projects/QT/QDialog/QDialog/widget.h
@@ -664,7 +665,6 @@ C:/QT_6/projects/QT/QDialog/QDialog/widget.h
  mdp:C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/QT_6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
-C:/QT_6/projects/QT/QDialog/QDialog/main.cpp
 C:/QT_6/projects/QT/QDialog/QDialog/infodialog.cpp
  uic:ui_infodialog.h
 C:/QT_6/projects/QT/QDialog/QDialog/widget.cpp

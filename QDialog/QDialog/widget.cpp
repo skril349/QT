@@ -27,7 +27,7 @@ void Widget::on_provideInfoButton_clicked()
         ui->infoLabel->setText("Your Position is: "+position+" and your favorite os is : "+os);
 
     }else{
-
+        ui->infoLabel->setText("rejected");
     }
     //non modal, working with multiple modal
    // dialog->show();
