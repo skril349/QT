@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QFileDialog.dir/objects.a
+C:\QT_6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\QFileDialog.dir/objects.a @CMakeFiles\QFileDialog.dir\objects1.rsp
+C:\QT_6\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\QFileDialog.dir/objects.a -Wl,--no-whole-archive -o QFileDialog.exe -Wl,--out-implib,libQFileDialog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QFileDialog.dir\linklibs.rsp
