@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d5a23cf8e401a6936b54.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QDialog",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QDialog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QDialog-Debug-05421f5cb9990de59e99.json",
+					"name" : "QDialog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QDialog_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QDialog_autogen-Debug-fc08a88e76cee03d6897.json",
+					"name" : "QDialog_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QT_6/projects/QT/QDialog/build-QDialog-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/QT_6/projects/QT/QDialog/QDialog"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
