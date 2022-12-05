@@ -26,6 +26,7 @@ public:
     QHBoxLayout *horizontalLayout;
     QPushButton *activeButton;
     QPushButton *disableButton;
+    QLabel *labelStyleSheet;
     QLabel *textLabel;
 
     void setupUi(QWidget *Widget)
@@ -39,17 +40,26 @@ public:
         horizontalLayout->setObjectName("horizontalLayout");
         activeButton = new QPushButton(Widget);
         activeButton->setObjectName("activeButton");
+        activeButton->setStyleSheet(QString::fromUtf8("background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 178, 102, 255), stop:0.55 rgba(235, 148, 61, 255), stop:0.98 rgba(0, 0, 0, 255), stop:1 rgba(0, 0, 0, 0));"));
 
         horizontalLayout->addWidget(activeButton);
 
         disableButton = new QPushButton(Widget);
         disableButton->setObjectName("disableButton");
         disableButton->setEnabled(false);
+        disableButton->setStyleSheet(QString::fromUtf8("background-color: qradialgradient(spread:repeat, cx:0.5, cy:0.5, radius:0.077, fx:0.5, fy:0.5, stop:0 rgba(0, 169, 255, 147), stop:0.497326 rgba(0, 0, 0, 147), stop:1 rgba(0, 169, 255, 147));"));
 
         horizontalLayout->addWidget(disableButton);
 
 
         verticalLayout->addLayout(horizontalLayout);
+
+        labelStyleSheet = new QLabel(Widget);
+        labelStyleSheet->setObjectName("labelStyleSheet");
+        labelStyleSheet->setStyleSheet(QString::fromUtf8("background-color: rgb(183, 248, 255);\n"
+"color: rgb(255, 85, 255);"));
+
+        verticalLayout->addWidget(labelStyleSheet);
 
         textLabel = new QLabel(Widget);
         textLabel->setObjectName("textLabel");
@@ -71,6 +81,7 @@ public:
         Widget->setWindowTitle(QCoreApplication::translate("Widget", "Widget", nullptr));
         activeButton->setText(QCoreApplication::translate("Widget", "Active", nullptr));
         disableButton->setText(QCoreApplication::translate("Widget", "Disable", nullptr));
+        labelStyleSheet->setText(QCoreApplication::translate("Widget", "TextLabel", nullptr));
         textLabel->setText(QCoreApplication::translate("Widget", "TextLabel", nullptr));
     } // retranslateUi
 
