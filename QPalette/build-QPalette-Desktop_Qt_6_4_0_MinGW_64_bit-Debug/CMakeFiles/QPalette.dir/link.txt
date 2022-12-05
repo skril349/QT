@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QPalette.dir/objects.a
+C:\QT_6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\QPalette.dir/objects.a @CMakeFiles\QPalette.dir\objects1.rsp
+C:\QT_6\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\QPalette.dir/objects.a -Wl,--no-whole-archive -o QPalette.exe -Wl,--out-implib,libQPalette.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QPalette.dir\linklibs.rsp

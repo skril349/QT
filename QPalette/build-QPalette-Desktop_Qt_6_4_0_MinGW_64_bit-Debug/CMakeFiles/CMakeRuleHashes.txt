@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+9a1feabb916db54e6f08f164c98cdc49 CMakeFiles/QPalette_autogen
